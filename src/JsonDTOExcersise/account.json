@@ -1,0 +1,77 @@
+[
+    {
+        "firstName": "John",
+        "lastName": "Doe",
+        "birthDate": "1985-07-15",
+        "address": {
+            "street": "123 Main St",
+            "city": "New York",
+            "zipCode": 10001
+        },
+        "account": {
+            "id": "JD123456",
+            "balance": "1000.50",
+            "isActive": true
+        }
+    },
+    {
+        "firstName": "Alice",
+        "lastName": "Smith",
+        "birthDate": "1990-02-28",
+        "address": {
+            "street": "456 Elm St",
+            "city": "Los Angeles",
+            "zipCode": 90001
+        },
+        "account": {
+            "id": "AS987654",
+            "balance": "500.25",
+            "isActive": false
+        }
+    },
+    {
+        "firstName": "Michael",
+        "lastName": "Johnson",
+        "birthDate": "1980-11-10",
+        "address": {
+            "street": "789 Oak St",
+            "city": "Chicago",
+            "zipCode": 60601
+        },
+        "account": {
+            "id": "MJ246810",
+            "balance": "750.80",
+            "isActive": true
+        }
+    },
+    {
+        "firstName": "Emily",
+        "lastName": "Brown",
+        "birthDate": "1987-04-20",
+        "address": {
+            "street": "101 Pine St",
+            "city": "San Francisco",
+            "zipCode": 94101
+        },
+        "account": {
+            "id": "EB135792",
+            "balance": "300.00",
+            "isActive": true
+        }
+    },
+    {
+        "firstName": "David",
+        "lastName": "Taylor",
+        "birthDate": "1995-09-05",
+        "address": {
+            "street": "222 Cedar St",
+            "city": "Seattle",
+            "zipCode": 98101
+        },
+        "account": {
+            "id": "DT369258",
+            "balance": "1200.75",
+            "isActive": false
+        }
+    }
+]
